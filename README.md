@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lizzy</h1>
-<h3 align="center">An entry level data analyst</h3>
+<h1 align="center">Hi there, My name is Lizzy👋</h1>
+<h3 align="center">I'm an entry level data analyst passionate about digging into datasets , cleaning messy data and creating visuals that tell clear stories. Currently building hands-on projects using real market data, sales records and public health stats.</h3>
 
 - 📫 How to reach me **lizabethben.e@gmail.com**
 
